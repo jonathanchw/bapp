@@ -7,7 +7,7 @@ import { useTranslation } from "next-i18next";
 
 export default function Equity() {
 	const { t } = useTranslation();
-	
+
 	return (
 		<>
 			<Head>
